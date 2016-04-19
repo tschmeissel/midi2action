@@ -1,0 +1,120 @@
+timestamp 2841000 us: [FA] Start
+timestamp 2851000 us: [B0 05 00] channel 1: control change 5 value: 0
+timestamp 2851000 us: [B1 05 00] channel 2: control change 5 value: 0
+timestamp 2851000 us: [B2 05 00] channel 3: control change 5 value: 0
+timestamp 2851000 us: [B3 05 00] channel 4: control change 5 value: 0
+timestamp 2851000 us: [B4 05 00] channel 5: control change 5 value: 0
+timestamp 2851000 us: [B5 05 00] channel 6: control change 5 value: 0
+timestamp 2851000 us: [B6 05 00] channel 7: control change 5 value: 0
+timestamp 2861000 us: [B7 05 00] channel 8: control change 5 value: 0
+timestamp 2861000 us: [B8 05 00] channel 9: control change 5 value: 0
+timestamp 2861000 us: [B9 05 00] channel 10: control change 5 value: 0
+timestamp 2861000 us: [BA 05 00] channel 11: control change 5 value: 0
+timestamp 2861000 us: [BB 05 00] channel 12: control change 5 value: 0
+timestamp 2861000 us: [BC 05 00] channel 13: control change 5 value: 0
+timestamp 2861000 us: [BD 05 00] channel 14: control change 5 value: 0
+timestamp 2861000 us: [BE 05 00] channel 15: control change 5 value: 0
+timestamp 2861000 us: [BF 05 00] channel 16: control change 5 value: 0
+timestamp 2861000 us: [B0 20 00] channel 1: control change 32 value: 0
+timestamp 2861000 us: [C0 00] channel 1: program change 0
+timestamp 5961000 us: [B0 00 00] channel 1: control change 0 value: 0
+timestamp 5961000 us: [B0 20 00] channel 1: control change 32 value: 0
+timestamp 5971000 us: [C0 0A] channel 1: program change 10
+timestamp 9081000 us: [B0 00 00] channel 1: control change 0 value: 0
+timestamp 9081000 us: [B0 20 00] channel 1: control change 32 value: 0
+timestamp 9081000 us: [C0 13] channel 1: program change 19
+timestamp 12191000 us: [B0 00 00] channel 1: control change 0 value: 0
+timestamp 12191000 us: [B0 20 00] channel 1: control change 32 value: 0
+timestamp 12201000 us: [C0 19] channel 1: program change 25
+timestamp 15311000 us: [B0 00 00] channel 1: control change 0 value: 0
+timestamp 15311000 us: [B0 20 00] channel 1: control change 32 value: 0
+timestamp 15321000 us: [C0 32] channel 1: program change 50
+timestamp 18431000 us: [B0 00 00] channel 1: control change 0 value: 0
+timestamp 18432000 us: [B0 20 00] channel 1: control change 32 value: 0
+timestamp 18439000 us: [C0 38] channel 1: program change 56
+timestamp 18440000 us: [B0 40 00] channel 1: control change 64 value: 0
+timestamp 18441000 us: [B0 42 00] channel 1: control change 66 value: 0
+timestamp 18442000 us: [B1 40 00] channel 2: control change 64 value: 0
+timestamp 18443000 us: [B1 42 00] channel 2: control change 66 value: 0
+timestamp 18444000 us: [B2 40 00] channel 3: control change 64 value: 0
+timestamp 18444000 us: [B2 42 00] channel 3: control change 66 value: 0
+timestamp 18445000 us: [B3 40 00] channel 4: control change 64 value: 0
+timestamp 18446000 us: [B3 42 00] channel 4: control change 66 value: 0
+timestamp 18447000 us: [B4 40 00] channel 5: control change 64 value: 0
+timestamp 18447000 us: [B4 42 00] channel 5: control change 66 value: 0
+timestamp 18448000 us: [B5 40 00] channel 6: control change 64 value: 0
+timestamp 18449000 us: [B5 42 00] channel 6: control change 66 value: 0
+timestamp 18450000 us: [B6 40 00] channel 7: control change 64 value: 0
+timestamp 18451000 us: [B6 42 00] channel 7: control change 66 value: 0
+timestamp 18452000 us: [B7 40 00] channel 8: control change 64 value: 0
+timestamp 18452000 us: [B7 42 00] channel 8: control change 66 value: 0
+timestamp 18453000 us: [B8 40 00] channel 9: control change 64 value: 0
+timestamp 18454000 us: [B8 42 00] channel 9: control change 66 value: 0
+timestamp 18456000 us: [B9 40 00] channel 10: control change 64 value: 0
+timestamp 18456000 us: [B9 42 00] channel 10: control change 66 value: 0
+timestamp 18456000 us: [BA 40 00] channel 11: control change 64 value: 0
+timestamp 18457000 us: [BA 42 00] channel 11: control change 66 value: 0
+timestamp 18458000 us: [BB 40 00] channel 12: control change 64 value: 0
+timestamp 18459000 us: [BB 42 00] channel 12: control change 66 value: 0
+timestamp 18460000 us: [BC 40 00] channel 13: control change 64 value: 0
+timestamp 18460000 us: [BC 42 00] channel 13: control change 66 value: 0
+timestamp 18461000 us: [BD 40 00] channel 14: control change 64 value: 0
+timestamp 18462000 us: [BD 42 00] channel 14: control change 66 value: 0
+timestamp 18463000 us: [BE 40 00] channel 15: control change 64 value: 0
+timestamp 18463000 us: [BE 42 00] channel 15: control change 66 value: 0
+timestamp 18464000 us: [BF 40 00] channel 16: control change 64 value: 0
+timestamp 18465000 us: [BF 42 00] channel 16: control change 66 value: 0
+timestamp 18466000 us: [B9 78 00] channel 10: control change 120 value: 0
+timestamp 18467000 us: [FC] Stop
+timestamp 18470000 us: Sysex message: F0 43 10 4C 00 00 00 00 04 00 00 F7
+timestamp 18471000 us: [B0 64 7F] channel 1: control change 100 value: 127
+timestamp 18472000 us: [B0 65 7F] channel 1: control change 101 value: 127
+timestamp 18475000 us: Sysex message: F0 43 73 01 11 00 45 00 F7
+timestamp 18476000 us: [B1 64 7F] channel 2: control change 100 value: 127
+timestamp 18476000 us: [B1 65 7F] channel 2: control change 101 value: 127
+timestamp 18479000 us: Sysex message: F0 43 73 01 11 01 45 00 F7
+timestamp 18480000 us: [B2 64 7F] channel 3: control change 100 value: 127
+timestamp 18481000 us: [B2 65 7F] channel 3: control change 101 value: 127
+timestamp 18484000 us: Sysex message: F0 43 73 01 11 02 45 00 F7
+timestamp 18485000 us: [B3 64 7F] channel 4: control change 100 value: 127
+timestamp 18486000 us: [B3 65 7F] channel 4: control change 101 value: 127
+timestamp 18489000 us: Sysex message: F0 43 73 01 11 03 45 00 F7
+timestamp 18490000 us: [B4 64 7F] channel 5: control change 100 value: 127
+timestamp 18490000 us: [B4 65 7F] channel 5: control change 101 value: 127
+timestamp 18493000 us: Sysex message: F0 43 73 01 11 04 45 00 F7
+timestamp 18494000 us: [B5 64 7F] channel 6: control change 100 value: 127
+timestamp 18495000 us: [B5 65 7F] channel 6: control change 101 value: 127
+timestamp 18498000 us: Sysex message: F0 43 73 01 11 05 45 00 F7
+timestamp 18499000 us: [B6 64 7F] channel 7: control change 100 value: 127
+timestamp 18499000 us: [B6 65 7F] channel 7: control change 101 value: 127
+timestamp 18502000 us: Sysex message: F0 43 73 01 11 06 45 00 F7
+timestamp 18503000 us: [B7 64 7F] channel 8: control change 100 value: 127
+timestamp 18504000 us: [B7 65 7F] channel 8: control change 101 value: 127
+timestamp 18507000 us: Sysex message: F0 43 73 01 11 07 45 00 F7
+timestamp 18508000 us: [B8 64 7F] channel 9: control change 100 value: 127
+timestamp 18508000 us: [B8 65 7F] channel 9: control change 101 value: 127
+timestamp 18511000 us: Sysex message: F0 43 73 01 11 08 45 00 F7
+timestamp 18512000 us: [B9 64 7F] channel 10: control change 100 value: 127
+timestamp 18513000 us: [B9 65 7F] channel 10: control change 101 value: 127
+timestamp 18516000 us: Sysex message: F0 43 73 01 11 09 45 00 F7
+timestamp 18517000 us: [BA 64 7F] channel 11: control change 100 value: 127
+timestamp 18517000 us: [BA 65 7F] channel 11: control change 101 value: 127
+timestamp 18520000 us: Sysex message: F0 43 73 01 11 0A 45 00 F7
+timestamp 18521000 us: [BB 64 7F] channel 12: control change 100 value: 127
+timestamp 18522000 us: [BB 65 7F] channel 12: control change 101 value: 127
+timestamp 18525000 us: Sysex message: F0 43 73 01 11 0B 45 00 F7
+timestamp 18525000 us: [BC 64 7F] channel 13: control change 100 value: 127
+timestamp 18526000 us: [BC 65 7F] channel 13: control change 101 value: 127
+timestamp 18529000 us: Sysex message: F0 43 73 01 11 0C 45 00 F7
+timestamp 18530000 us: [BD 64 7F] channel 14: control change 100 value: 127
+timestamp 18531000 us: [BD 65 7F] channel 14: control change 101 value: 127
+timestamp 18534000 us: Sysex message: F0 43 73 01 11 0D 45 00 F7
+timestamp 18535000 us: [BE 64 7F] channel 15: control change 100 value: 127
+timestamp 18535000 us: [BE 65 7F] channel 15: control change 101 value: 127
+timestamp 18538000 us: Sysex message: F0 43 73 01 11 0E 45 00 F7
+timestamp 18539000 us: [BF 64 7F] channel 16: control change 100 value: 127
+timestamp 18540000 us: [BF 65 7F] channel 16: control change 101 value: 127
+timestamp 18543000 us: Sysex message: F0 43 73 01 11 0F 45 00 F7
+timestamp 18544000 us: [B0 00 00] channel 1: control change 0 value: 0
+timestamp 18547000 us: Sysex message: F0 43 7E 01 00 2F 47 54 F7
+timestamp 18549000 us: Sysex message: F0 43 7E 01 00 2F 47 54 F7

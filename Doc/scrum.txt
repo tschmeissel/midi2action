@@ -1,0 +1,20 @@
+Sprintlog
+---------
+
+Fehleranalyse + Fix
+Als Benutzer möchte ich den Empfang von Midievents starten können und Meldungen darüber empfangen.
+ Voraussetzung dafür ist ein valider Midiport.
+  
+Backlog
+-------
+
+Alle Monitore erkennen und darauf Bilder anzeigen
+Struktur Midikonfiguration (midi2action.xml) verbessern
+
+User Stories
+------------
+
+Als Benutzer möchte ich ein XML bearbeiten, damit das Programm entsprechend dieser Konfiguriation Aktionen auf dem Computer ausführen kann.
+
+Als Benutzer möchte ich, dass das Programm meldet, falls der konfigurierte Midiport nicht zur Verfügung steht.
+  

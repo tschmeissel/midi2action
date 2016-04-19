@@ -1,0 +1,55 @@
+0     INFO  [main] midi2picture.Main - starting MIDI2Picture
+31    INFO  [main] midi2picture.MidiSystemExplorer - Next device:
+31    INFO  [main] midi2picture.MidiSystemExplorer -   Name: Gervill
+31    INFO  [main] midi2picture.MidiSystemExplorer -   Description: Software MIDI Synthesizer
+31    INFO  [main] midi2picture.MidiSystemExplorer -   Vendor: OpenJDK
+31    INFO  [main] midi2picture.MidiSystemExplorer -   toString(): Gervill
+31    INFO  [main] midi2picture.MidiSystemExplorer -   Type: javax.sound.midi.Synthesizer
+31    INFO  [main] midi2picture.MidiSystemExplorer - 
+31    INFO  [main] midi2picture.MidiSystemExplorer - Next device:
+31    INFO  [main] midi2picture.MidiSystemExplorer -   Name: Bome's Midi Translator 1
+31    INFO  [main] midi2picture.MidiSystemExplorer -   Description: No details available
+31    INFO  [main] midi2picture.MidiSystemExplorer -   Vendor: Unknown vendor
+31    INFO  [main] midi2picture.MidiSystemExplorer -   toString(): Bome's Midi Translator 1
+31    INFO  [main] midi2picture.MidiSystemExplorer -   Type: null
+31    INFO  [main] midi2picture.MidiSystemExplorer - 
+31    INFO  [main] midi2picture.MidiSystemExplorer - Next device:
+31    INFO  [main] midi2picture.MidiSystemExplorer -   Name: Microsoft MIDI Mapper
+31    INFO  [main] midi2picture.MidiSystemExplorer -   Description: Windows MIDI_MAPPER
+31    INFO  [main] midi2picture.MidiSystemExplorer -   Vendor: Unknown vendor
+31    INFO  [main] midi2picture.MidiSystemExplorer -   toString(): Microsoft MIDI Mapper
+31    INFO  [main] midi2picture.MidiSystemExplorer -   Type: null
+31    INFO  [main] midi2picture.MidiSystemExplorer - 
+31    INFO  [main] midi2picture.MidiSystemExplorer - Next device:
+31    INFO  [main] midi2picture.MidiSystemExplorer -   Name: Microsoft GS Wavetable Synth
+31    INFO  [main] midi2picture.MidiSystemExplorer -   Description: Internal software synthesizer
+31    INFO  [main] midi2picture.MidiSystemExplorer -   Vendor: Unknown vendor
+31    INFO  [main] midi2picture.MidiSystemExplorer -   toString(): Microsoft GS Wavetable Synth
+31    INFO  [main] midi2picture.MidiSystemExplorer -   Type: null
+47    INFO  [main] midi2picture.MidiSystemExplorer - 
+47    INFO  [main] midi2picture.MidiSystemExplorer - Next device:
+47    INFO  [main] midi2picture.MidiSystemExplorer -   Name: 2- Bome's Midi Translator 1
+47    INFO  [main] midi2picture.MidiSystemExplorer -   Description: External MIDI Port
+47    INFO  [main] midi2picture.MidiSystemExplorer -   Vendor: Unknown vendor
+47    INFO  [main] midi2picture.MidiSystemExplorer -   toString(): 2- Bome's Midi Translator 1
+47    INFO  [main] midi2picture.MidiSystemExplorer -   Type: null
+47    INFO  [main] midi2picture.MidiSystemExplorer - 
+47    INFO  [main] midi2picture.MidiSystemExplorer - Next device:
+47    INFO  [main] midi2picture.MidiSystemExplorer -   Name: Real Time Sequencer
+47    INFO  [main] midi2picture.MidiSystemExplorer -   Description: Software sequencer
+47    INFO  [main] midi2picture.MidiSystemExplorer -   Vendor: Oracle Corporation
+47    INFO  [main] midi2picture.MidiSystemExplorer -   toString(): Real Time Sequencer
+47    INFO  [main] midi2picture.MidiSystemExplorer -   Type: javax.sound.midi.Sequencer
+47    INFO  [main] midi2picture.MidiSystemExplorer - 
+47    INFO  [main] midi2picture.MidiInputHandler - device found: Gervill
+47    WARN  [main] midi2picture.MidiInputHandler - no transmitter available at: Gervill
+47    INFO  [main] midi2picture.MidiInputHandler - device found: Bome's Midi Translator 1
+47    INFO  [main] midi2picture.MidiInputHandler - transmitter at Bome's Midi Translator 1 was opened
+47    INFO  [main] midi2picture.MidiInputHandler - device found: Microsoft MIDI Mapper
+47    WARN  [main] midi2picture.MidiInputHandler - no transmitter available at: Microsoft MIDI Mapper
+47    INFO  [main] midi2picture.MidiInputHandler - device found: Microsoft GS Wavetable Synth
+47    WARN  [main] midi2picture.MidiInputHandler - no transmitter available at: Microsoft GS Wavetable Synth
+47    INFO  [main] midi2picture.MidiInputHandler - device found: 2- Bome's Midi Translator 1
+47    WARN  [main] midi2picture.MidiInputHandler - no transmitter available at: 2- Bome's Midi Translator 1
+62    INFO  [main] midi2picture.MidiInputHandler - device found: Real Time Sequencer
+62    INFO  [main] midi2picture.MidiInputHandler - transmitter at Real Time Sequencer was opened

@@ -1,0 +1,52 @@
+!!!Neueste oben!!!
+
+Als Benutzer möchte ich einen Midiport für den Empfang konfigurieren können. Diese Konfiguration soll gespeichert werden.
+ Folgender Mechanismus soll hier zur Ermittlung eingesetzt werden.
+ 1. es werden alle geeigneten Midiports des Systems ausgelesen.
+ 2. es wird der konfigurierte Eintrag aus midi2action.properties ausgelesen
+ Konfigurierte Port
+  valide
+   wird für Empfang verwendet
+   in der Auswahlliste der geeigneten Ports als erster angezeigt
+  nicht valide
+   Fehlerdialog wird angezeigt
+    Eingabefeld der Auswahlliste bleibt leer
+	verügbare geeigente Ports stehen in der Auswahlliste zur Verfügung
+
+--snip--	
+	
+Als Benutzer möchte ich das Programm per Menuaktion "Beenden" definiert schließen und beenden können.
+
+GUI erstellen, die Logs rausschreibt.
+ Mit JavaFX HelloWorld bauen. Dort sollte eine Pane o.ä. zur Verfügung stehen, auf die man pogrammatisch Text ausgeben kann.
+ *midi2action auf eclipse luna (4.4) einrichten und testen
+  *svn plugin in eclipse installieren
+  *Warnings entfernen
+  *GUI mit Menü und Textarea
+  Main + MainFX konsolidieren
+
+MIDI Ausgabe im Unittest auf midi2action (loopMIDI) umleiten
+
+Unittest implementieren
+
+SVN server + Repository einrichten
+
+SVN client einrichten
+
+Eclipse workspace + Projekt einrichten + unter SVN Kontrolle nehmen
+
+Log4j in Eclipse Projekt einrichten
+
+Alle installierten MIDI-Geräte erkennen und feststellen, welches sich zum Empfangen von MIDI-Events eignet (Typ anzeigen)
+
+Windows executable erstellen und rausschicken
+
+MIDI von externer Schnittstelle lesen und loggen
+ MIDI Input port erkennen
+ mehrere Schnittstellen können vorhanden sein
+ MIDI sequence abspielen als Voraussetzung dass sie auch gelesen werden kann
+  Vielleicht mit einem externen Programm abspielen
+
+MIDI2Picture -> Midi2Action
+
+Einzelne Midievents lesen

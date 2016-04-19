@@ -1,0 +1,23 @@
+Spezifikation
+-------------
+
+Der Keyboardspieler drückt eine Taste und schickt damit einen MIDI-Befehl über ein MIDI-Kabel an den PC. Auf dem PC soll sich entsprechend zum MIDI-Befehl und einer Konfiguration ein Bild auf einem bestimmten Monitor öffnen. Der PC kann mehrere Monitore haben.
+
+Alle events die program change heißen sind die richtigen.
+z.B. program change 0 soll später die Bilddatei 001 aufrufen.
+Oder program change 50 die Bilddatei 050 usw.
+
+Konfiguration
+ Es gibt eine Bibliothek von Midisongs. Jeder Midisong bekommt Midievents vom Typ "program change 1..x". Diese "program change" werden an den Computer geschickt. Der Wertebereich der "progam changes" ist wohl relativ hoch (wie hoch). Er muss auf jeden Fall zum Ansteuern aller Bilder für alle Midisong endeutig ausreichen. Es muss berücksichtigt werden, dass z.B. bei "program change 2" nicht nur das Textbild 002.jpg sondern soweit vorhanden auch das Notenbild 002.png angezeigt wird. Es muss konfigurierbar sein auf welchem Bildschirm Text- und oder Notenbild angezeigt werden. Es muss geklärt werden in welchem Format und in welcher Struktur die Konfiguration abgelegt wird (XML?).
+
+09.04.2015
+ In der excel-artigen Darstellung der Ansteuerungsmatrix (Konfiguration) für midi2action (siehe Dokument Zur Erklärung.docx), ist nur jeweils ein Dokument für Noten, Text usw. vorgesehen. Hier sollte mit mehr Dokumenten gerechnet werden. Also pro Midi z.B. 2 Textseiten.
+ 
+ Es sollte nicht nur auf einem Midiport sondern auch nur auf einem Kanal gelauscht werden. Es gibt 16 Kanäle im Midistandard.
+ 
+ Konfiguration des zu verwendenden Midi Port + Kanal über Konfigurationsdialog.
+ 
+ Statusleiste mit Anzeige des verwendeten Port + Kanal.
+ 
+ Bisher wurde auf "patch change" Befehle reagiert. Jetzt war die Rede von "program change" Befehlen. Klingt also stark nach Konfiguration. Vorher nochmal untersuchen, welche Midibefehle mit welchen Parametern
+ für Aktionen verwendet werden können, denn bei mehrfacher Verwendung kommt es zur Kollosion.

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.40" xmlns:fx="http://javafx.com/fxml/1" fx:controller="de.midi2action.view.MainViewController">
+   <top>
+      <MenuBar BorderPane.alignment="CENTER">
+        <menus>
+          <Menu mnemonicParsing="false" text="Aktion">
+            <items>
+                  <MenuItem fx:id="menuItemStart" mnemonicParsing="false" text="Start" />
+                  <MenuItem fx:id="menuItemStop" mnemonicParsing="false" text="Stop" />
+              <MenuItem fx:id="menuItemExit" mnemonicParsing="false" text="Beenden" />
+            </items>
+          </Menu>
+            <Menu fx:id="menuMidiInPort" disable="true" mnemonicParsing="false" text="MIDI Port" />
+        </menus>
+      </MenuBar>
+   </top>
+</BorderPane>

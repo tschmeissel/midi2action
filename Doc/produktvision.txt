@@ -1,0 +1,4 @@
+Produktvision
+-------------
+
+Für Keyboardspieler werden Songbücher mit Texten und Noten durch ein Computerprogramm ersetzt. Dadurch wird die Aufführung von Musik vereinfacht.

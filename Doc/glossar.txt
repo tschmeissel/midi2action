@@ -1,0 +1,55 @@
+MIDI-Befehl
+ Irgendein Code der auf einem MIDI-fähigen Gerät zum Abspielen eines Tones in einer bestimmten Höhe und Länge (Note) und Instrument führt. Für die Ansteuerung des entsprechenden Instrumentes kommt ein Programm-Change-Code zum Einsatz. All diese Informationen sind im MIDI-Befehl enthalten.
+
+Sequenz
+ Ist ein Titel oder Song bestehend aus mehreren Tracks.
+ 
+Receiver
+ Ist ein MIDI Gerät, das MIDI empfangen kann, z.B. ein MIDI-Output-Port. Für Recording.
+
+Sequenzer
+ Ist eine Hard- oder Software zum Abspielen, Bearbeiten oder Aufnehmen einer Sequenz.
+
+Synthesizer
+ Erzeugt einen Ton sobald auf einem seiner Kanäle ein NoteOn Befehl empfangen wird. 
+ 
+Transmitter
+ Sendet Midievents zu einem oder mehreren Receiver'n. Ist ein MIDI-Input-Port für Playback.
+
+MidiDevice, Transmitter, Receiver, MIDI-IN, MIDI-OUT
+Diese vier Begriffe hängen zusammen, weil sie auf unterschiedliche Art verknüpft werden können. Jedes MidiDevice (z.B. Synthesizer, Sequenzer) stellt Receiver und Transmitter zur Verfügung. Einen Transmitter kann man einen Receiver zuordnen aber Receiver keinen Transmitter. Man kann ein MidiDevice nur entweder als MIDI-IN (MidiInDevice) oder MIDI-OUT (MidiOutDevice) öffnen. Öffnet man ein MidiDevice als MIDI OUT kann man sich von dort einen Receiver holen. Öffnet man es als MIDI IN kann man sich von dort einen Transmitter holen. Transmitter steht für Playback und Receiver für Recording.
+ 
+virtual MIDI port
+ file:///C:/Program%20Files%20%28x86%29/Bome%27s%20Midi%20Translator%20Classic/help/setup.html#vmidi
+
+Gervill
+ Gervill was designed to be generic synthesizer for Java. By adding gervill.jar to your classpath you should be able to load SoundFonts/DLS files using MidiSystem.getSoundBank(). And MidiSystem.getSynthesizer() should return instance of Gervill Synthesizer.
+ 
+ http://java.net/projects/gervill/pages/Home
+ 
+Microsoft MIDI Mapper
+ Microsoft Windows MIDI System
+
+Microsoft GS Wavetable Synth 
+ The Microsoft GS Wavetable SW Synth included in versions of DirectX as an integral part of DirectMusic is a version of the Roland Virtual Sound Canvas with GS sound set licensed by Microsoft from Roland Corporation in 1996.[1] The file containing the samples is in DLS format.
+ 
+Real Time Sequencer 
+ Ein Sequenzer [ze'kv?nts?r] ist ein elektronisches Gerät oder eine Software zur Aufnahme, Wiedergabe und Bearbeitung von Daten zur Erstellung von Musik. 
+ 
+Active Sensing (FE) und  Timing clock (F8)
+ Synchronisationssignale für zwei MIDI-Schnittstellen. Haben mit der eigentlichen Übertragung von MIDI-Events nichts zu tun.
+
+Programmwechsel, program change
+ Auf jedem MIDI-Kanal kann das Programm (Instrument) gewechselt werden. Entsprechend des übergebenen Werter wird auf ein anderen Programm gewechselt. Der Programmwechsel selbst hat einen Code aber keinen zusätzlichen Wert.
+
+Controller-Wechsel, control change
+ Auf jedem MIDI-Kanal kann der Controller gewechselt werden.
+ 
+MIDI Bank
+ Besteht aus 128 Patches. Wird durch anwählen eines bestimmten Controllers ausgewählt, z.B. contol change 0 (LSB) 32 (MSB) wählt Bank 0. Wurde eine Bank per control change bestimmt, kann danach ein Patch aus der Bank per program change ausgewählt werden.
+
+Patch
+ Ist ein Sound oder Klang, z.B. Klavier oder Streicher. Wird z.B. durch program change <PatchNr> ausgewählt.
+ 
+JavaFX
+ Java Technologie zur Implementierung von GUIs für Desktopanwendungen. Ab Java 1.8 wird eine völlig neue Version veröffentlicht. JavaFX ist der Nachfolger von Swing. GUIs können mit CSS gestylt werden.

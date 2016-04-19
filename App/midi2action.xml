@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- TS, 14.03.2015: In diesem Entwurf muss die Logik, Struktur und Dateinamen noch angepasst werden. -->
+<song number="0">
+	<program_change_command channel="2" value="33">
+		<screen number="1">001_text.jpg</screen>
+		<screen number="2">002_text.jpg</screen>
+		<screen number="3">001_noten.jpg</screen>
+	</program_change_command>
+	<program_change_command channel="2" value="0">
+		<screen number="1">001_text.jpg</screen>
+		<screen number="2">002_text.jpg</screen>
+		<screen number="3">002_noten.jpg</screen>
+	</program_change_command>
+</song>
+<song number="1">
+	<program_change_command channel="2" value="33">
+		<screen number="1">001_text.jpg</screen>
+		<screen number="2">002_text.jpg</screen>
+		<screen number="3">001_noten.jpg</screen>
+	</program_change_command>
+	<program_change_command channel="2" value="0">
+		<screen number="1">001_text.jpg</screen>
+		<screen number="2">002_text.jpg</screen>
+		<screen number="3">002_noten.jpg</screen>
+	</program_change_command>
+</song>

@@ -1,0 +1,71 @@
+midi2action
+-----------
+
+Fragen und Antworten
+
+ Mit welcher Java-API kann man Input von der MIDI-Schnittstelle des PC lesen?
+  http://docs.oracle.com/javase/7/docs/technotes/guides/sound/index.html
+  http://docs.oracle.com/javase/7/docs/api/
+ 
+ Ist diese API Bestandteile des JDK?
+  Ja, Java 2 SDK, Standard Edition 1.3 Release and above
+  
+ Welchen Sequencer bekomme ich, wenn ich MidiSystem.getSequencer() aufrufe?
+  Bei mir den hier als Default:
+   Name: Real Time Sequencer
+   Description: Software sequencer
+   Vendor: Oracle Corporation
+   toString(): Real Time Sequencer
+   Type: javax.sound.midi.Sequencer 
+   
+ Wie lautet die SVN Resource URL?
+  https://santorini/svn/schmeissel/Midi2Action/App
+  
+ Wie lautet die URL für die kickoff Doku für JavaFX?
+  http://code.makery.ch/library/javafx-8-tutorial
+  
+ Macht es Sinn Unittests aus dem Programm heraus als Selbsttest aufrufbar zu machen?
+  Bisher kenne ich es nur, dass die Unittest in einer Phase des Builds ausgeführt werden.
+ Nein das scheint mir nicht da hin zugehören. Das Programm muss selbst adequat auf Fehlersituation reagieren können. Dazu brauch es keine Unittests intus zu haben.
+
+20.01.2015
+ MIDI-Geräte auf meinem PC
+ 2015-01-20 15:23:11,414 INFO  [main] midi2picture.Main (    Main.java:15)     - starting MIDI2Picture
+ 2015-01-20 15:23:11,478 INFO  [main] midi2picture.MidiHandler (MidiHandler.java:26)     - device found: Gervill
+ 2015-01-20 15:23:11,480 INFO  [main] midi2picture.MidiHandler (MidiHandler.java:26)     - device found: Microsoft MIDI Mapper
+ 2015-01-20 15:23:11,481 INFO  [main] midi2picture.MidiHandler (MidiHandler.java:26)     - device found: Microsoft GS Wavetable Synth
+ 2015-01-20 15:23:11,482 INFO  [main] midi2picture.MidiHandler (MidiHandler.java:26)     - device found: Real Time Sequencer
+ Real Time Sequencer Was Opened 
+ 
+06.02.2015
+ Mit angeschlossenem Keyboard diese zusätzlichen Geräte
+ INFO  [main] midi2picture.Main - starting MIDI2Picture
+ INFO  [main] midi2picture.MidiSystemExplorer - Next device:
+ INFO  [main] midi2picture.MidiSystemExplorer -   Name: USB Midi Cable
+ INFO  [main] midi2picture.MidiSystemExplorer -   Description: No details available
+ INFO  [main] midi2picture.MidiSystemExplorer -   Vendor: Unknown vendor
+ INFO  [main] midi2picture.MidiSystemExplorer -   toString(): USB Midi Cable
+ INFO  [main] midi2picture.MidiSystemExplorer -   Type: null
+ INFO  [main] midi2picture.MidiSystemExplorer - 
+ INFO  [main] midi2picture.MidiSystemExplorer - Next device:
+ INFO  [main] midi2picture.MidiSystemExplorer -   Name: USB Midi Cable
+ INFO  [main] midi2picture.MidiSystemExplorer -   Description: External MIDI Port
+ INFO  [main] midi2picture.MidiSystemExplorer -   Vendor: Unknown vendor
+ INFO  [main] midi2picture.MidiSystemExplorer -   toString(): USB Midi Cable
+ INFO  [main] midi2picture.MidiSystemExplorer -   Type: null
+
+Aufwände
+--------
+
+3 Stunden
+18.02.15 0,5 Aufzeichnung der MIDI-Events vom Keyboard auf dem PC
+22.02.15 1 Stunden; Durchstich mit IrfanView  
+28.02.15 1 Stunde Midi-Loopback-Device als Ersatz für reales Keyboard, Refactoring
+=> 100 €
+14.03.15 1 Analyse, Klärung weiteres Vorgehen, Refactoring
+20.03.15 2 ersten Unittest implementiert
+21.03.15 2 Refactored
+04.04.15 0,5 Anforderungsanalyse
+09.04.15 2 Erstellung Basis GUI
+10.04.15 5 Dummes Menü, Beenden-Aktion für Menü, Convienence-Klasse für Konfiguration
+01.05.15 3 Menüaktionen Start/Stop zum Empfangen von Midiereignissen mit Midischicht verbunden

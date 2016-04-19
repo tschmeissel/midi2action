@@ -1,0 +1,1003 @@
+timestamp 7794000 us: [FA] Start
+timestamp 7800000 us: [B0 05 00] channel 1: control change 5 value: 0
+timestamp 7801000 us: [B1 05 00] channel 2: control change 5 value: 0
+timestamp 7802000 us: [B2 05 00] channel 3: control change 5 value: 0
+timestamp 7802000 us: [B3 05 00] channel 4: control change 5 value: 0
+timestamp 7803000 us: [B4 05 00] channel 5: control change 5 value: 0
+timestamp 7804000 us: [B5 05 00] channel 6: control change 5 value: 0
+timestamp 7805000 us: [B6 05 00] channel 7: control change 5 value: 0
+timestamp 7806000 us: [B7 05 00] channel 8: control change 5 value: 0
+timestamp 7807000 us: [B8 05 00] channel 9: control change 5 value: 0
+timestamp 7808000 us: [B9 05 00] channel 10: control change 5 value: 0
+timestamp 7809000 us: [BA 05 00] channel 11: control change 5 value: 0
+timestamp 7810000 us: [BB 05 00] channel 12: control change 5 value: 0
+timestamp 7811000 us: [BC 05 00] channel 13: control change 5 value: 0
+timestamp 7812000 us: [BD 05 00] channel 14: control change 5 value: 0
+timestamp 7813000 us: [BE 05 00] channel 15: control change 5 value: 0
+timestamp 7814000 us: [BF 05 00] channel 16: control change 5 value: 0
+timestamp 8271000 us: [C1 21] channel 2: program change 33
+timestamp 8275000 us: [B1 0A 40] channel 2: control change 10 value: 64
+timestamp 8275000 us: [B1 48 40] channel 2: control change 72 value: 64
+timestamp 8276000 us: [B1 62 66] channel 2: control change 98 value: 102
+timestamp 8277000 us: [B1 63 01] channel 2: control change 99 value: 1
+timestamp 8277000 us: [B1 06 40] channel 2: control change 6 value: 64
+timestamp 8278000 us: [B1 64 7F] channel 2: control change 100 value: 127
+timestamp 8279000 us: [B1 65 7F] channel 2: control change 101 value: 127
+timestamp 8279000 us: [B1 4A 40] channel 2: control change 74 value: 64
+timestamp 8280000 us: [B1 62 20] channel 2: control change 98 value: 32
+timestamp 8280000 us: [B1 63 01] channel 2: control change 99 value: 1
+timestamp 8281000 us: [B1 06 40] channel 2: control change 6 value: 64
+timestamp 8282000 us: [B1 64 7F] channel 2: control change 100 value: 127
+timestamp 8282000 us: [B1 65 7F] channel 2: control change 101 value: 127
+timestamp 8283000 us: [B1 0A 40] channel 2: control change 10 value: 64
+timestamp 8290000 us: [C2 00] channel 3: program change 0
+timestamp 8292000 us: [B2 0A 2C] channel 3: control change 10 value: 44
+timestamp 8292000 us: [B2 48 40] channel 3: control change 72 value: 64
+timestamp 8293000 us: [B2 62 66] channel 3: control change 98 value: 102
+timestamp 8293000 us: [B2 63 01] channel 3: control change 99 value: 1
+timestamp 8294000 us: [B2 06 40] channel 3: control change 6 value: 64
+timestamp 8295000 us: [B2 64 7F] channel 3: control change 100 value: 127
+timestamp 8295000 us: [B2 65 7F] channel 3: control change 101 value: 127
+timestamp 8296000 us: [B2 4A 40] channel 3: control change 74 value: 64
+timestamp 8297000 us: [B2 62 20] channel 3: control change 98 value: 32
+timestamp 8297000 us: [B2 63 01] channel 3: control change 99 value: 1
+timestamp 8298000 us: [B2 06 40] channel 3: control change 6 value: 64
+timestamp 8299000 us: [B2 64 7F] channel 3: control change 100 value: 127
+timestamp 8299000 us: [B2 65 7F] channel 3: control change 101 value: 127
+timestamp 8300000 us: [B2 0A 2C] channel 3: control change 10 value: 44
+timestamp 8303000 us: [C3 4B] channel 4: program change 75
+timestamp 8304000 us: [B3 0A 4C] channel 4: control change 10 value: 76
+timestamp 8305000 us: [B3 48 40] channel 4: control change 72 value: 64
+timestamp 8306000 us: [B3 62 66] channel 4: control change 98 value: 102
+timestamp 8306000 us: [B3 63 01] channel 4: control change 99 value: 1
+timestamp 8307000 us: [B3 06 40] channel 4: control change 6 value: 64
+timestamp 8308000 us: [B3 64 7F] channel 4: control change 100 value: 127
+timestamp 8308000 us: [B3 65 7F] channel 4: control change 101 value: 127
+timestamp 8309000 us: [B3 4A 40] channel 4: control change 74 value: 64
+timestamp 8309000 us: [B3 62 20] channel 4: control change 98 value: 32
+timestamp 8310000 us: [B3 63 01] channel 4: control change 99 value: 1
+timestamp 8311000 us: [B3 06 40] channel 4: control change 6 value: 64
+timestamp 8311000 us: [B3 64 7F] channel 4: control change 100 value: 127
+timestamp 8312000 us: [B3 65 7F] channel 4: control change 101 value: 127
+timestamp 8313000 us: [B3 0A 4C] channel 4: control change 10 value: 76
+timestamp 8316000 us: [C4 30] channel 5: program change 48
+timestamp 8317000 us: [B4 0A 58] channel 5: control change 10 value: 88
+timestamp 8318000 us: [B4 48 40] channel 5: control change 72 value: 64
+timestamp 8319000 us: [B4 62 66] channel 5: control change 98 value: 102
+timestamp 8319000 us: [B4 63 01] channel 5: control change 99 value: 1
+timestamp 8320000 us: [B4 06 40] channel 5: control change 6 value: 64
+timestamp 8321000 us: [B4 64 7F] channel 5: control change 100 value: 127
+timestamp 8321000 us: [B4 65 7F] channel 5: control change 101 value: 127
+timestamp 8322000 us: [B4 4A 40] channel 5: control change 74 value: 64
+timestamp 8322000 us: [B4 62 20] channel 5: control change 98 value: 32
+timestamp 8323000 us: [B4 63 01] channel 5: control change 99 value: 1
+timestamp 8324000 us: [B4 06 40] channel 5: control change 6 value: 64
+timestamp 8324000 us: [B4 64 7F] channel 5: control change 100 value: 127
+timestamp 8325000 us: [B4 65 7F] channel 5: control change 101 value: 127
+timestamp 8326000 us: [B4 0A 58] channel 5: control change 10 value: 88
+timestamp 8327000 us: [F8] Timing clock
+timestamp 8330000 us: [C5 1B] channel 6: program change 27
+timestamp 8331000 us: [B5 0A 54] channel 6: control change 10 value: 84
+timestamp 8332000 us: [B5 48 40] channel 6: control change 72 value: 64
+timestamp 8333000 us: [B5 62 66] channel 6: control change 98 value: 102
+timestamp 8333000 us: [B5 63 01] channel 6: control change 99 value: 1
+timestamp 8334000 us: [B5 06 40] channel 6: control change 6 value: 64
+timestamp 8335000 us: [B5 64 7F] channel 6: control change 100 value: 127
+timestamp 8335000 us: [B5 65 7F] channel 6: control change 101 value: 127
+timestamp 8336000 us: [B5 4A 40] channel 6: control change 74 value: 64
+timestamp 8337000 us: [B5 62 20] channel 6: control change 98 value: 32
+timestamp 8337000 us: [B5 63 01] channel 6: control change 99 value: 1
+timestamp 8338000 us: [B5 06 40] channel 6: control change 6 value: 64
+timestamp 8338000 us: [B5 64 7F] channel 6: control change 100 value: 127
+timestamp 8339000 us: [B5 65 7F] channel 6: control change 101 value: 127
+timestamp 8340000 us: [B5 0A 54] channel 6: control change 10 value: 84
+timestamp 8343000 us: [C6 19] channel 7: program change 25
+timestamp 8344000 us: [B6 0A 6A] channel 7: control change 10 value: 106
+timestamp 8345000 us: [B6 48 40] channel 7: control change 72 value: 64
+timestamp 8346000 us: [B6 62 66] channel 7: control change 98 value: 102
+timestamp 8346000 us: [B6 63 01] channel 7: control change 99 value: 1
+timestamp 8347000 us: [B6 06 40] channel 7: control change 6 value: 64
+timestamp 8347000 us: [B6 64 7F] channel 7: control change 100 value: 127
+timestamp 8348000 us: [B6 65 7F] channel 7: control change 101 value: 127
+timestamp 8349000 us: [B6 4A 40] channel 7: control change 74 value: 64
+timestamp 8349000 us: [B6 62 20] channel 7: control change 98 value: 32
+timestamp 8350000 us: [B6 63 01] channel 7: control change 99 value: 1
+timestamp 8351000 us: [B6 06 40] channel 7: control change 6 value: 64
+timestamp 8351000 us: [B6 64 7F] channel 7: control change 100 value: 127
+timestamp 8352000 us: [B6 65 7F] channel 7: control change 101 value: 127
+timestamp 8353000 us: [B6 0A 6A] channel 7: control change 10 value: 106
+timestamp 8356000 us: [C7 34] channel 8: program change 52
+timestamp 8357000 us: [B7 0A 5C] channel 8: control change 10 value: 92
+timestamp 8358000 us: [B7 48 40] channel 8: control change 72 value: 64
+timestamp 8359000 us: [B7 62 66] channel 8: control change 98 value: 102
+timestamp 8359000 us: [B7 63 01] channel 8: control change 99 value: 1
+timestamp 8360000 us: [B7 06 40] channel 8: control change 6 value: 64
+timestamp 8361000 us: [B7 64 7F] channel 8: control change 100 value: 127
+timestamp 8361000 us: [B7 65 7F] channel 8: control change 101 value: 127
+timestamp 8362000 us: [B7 4A 40] channel 8: control change 74 value: 64
+timestamp 8362000 us: [B7 62 20] channel 8: control change 98 value: 32
+timestamp 8363000 us: [B7 63 01] channel 8: control change 99 value: 1
+timestamp 8364000 us: [B7 06 40] channel 8: control change 6 value: 64
+timestamp 8364000 us: [B7 64 7F] channel 8: control change 100 value: 127
+timestamp 8365000 us: [B7 65 7F] channel 8: control change 101 value: 127
+timestamp 8366000 us: [B7 0A 5C] channel 8: control change 10 value: 92
+timestamp 8369000 us: [C8 3D] channel 9: program change 61
+timestamp 8370000 us: [B8 0A 26] channel 9: control change 10 value: 38
+timestamp 8371000 us: [B8 48 40] channel 9: control change 72 value: 64
+timestamp 8372000 us: [B8 62 66] channel 9: control change 98 value: 102
+timestamp 8372000 us: [B8 63 01] channel 9: control change 99 value: 1
+timestamp 8373000 us: [B8 06 40] channel 9: control change 6 value: 64
+timestamp 8374000 us: [B8 64 7F] channel 9: control change 100 value: 127
+timestamp 8374000 us: [B8 65 7F] channel 9: control change 101 value: 127
+timestamp 8375000 us: [B8 4A 40] channel 9: control change 74 value: 64
+timestamp 8375000 us: [B8 62 20] channel 9: control change 98 value: 32
+timestamp 8376000 us: [B8 63 01] channel 9: control change 99 value: 1
+timestamp 8377000 us: [B8 06 40] channel 9: control change 6 value: 64
+timestamp 8377000 us: [B8 64 7F] channel 9: control change 100 value: 127
+timestamp 8378000 us: [B8 65 7F] channel 9: control change 101 value: 127
+timestamp 8379000 us: [B8 0A 26] channel 9: control change 10 value: 38
+timestamp 8381000 us: [C9 00] channel 10: program change 0
+timestamp 8383000 us: [B9 0A 40] channel 10: control change 10 value: 64
+timestamp 8383000 us: [B9 48 40] channel 10: control change 72 value: 64
+timestamp 8384000 us: [B9 62 66] channel 10: control change 98 value: 102
+timestamp 8385000 us: [B9 63 01] channel 10: control change 99 value: 1
+timestamp 8385000 us: [B9 06 40] channel 10: control change 6 value: 64
+timestamp 8386000 us: [B9 64 7F] channel 10: control change 100 value: 127
+timestamp 8387000 us: [B9 65 7F] channel 10: control change 101 value: 127
+timestamp 8387000 us: [B9 4A 40] channel 10: control change 74 value: 64
+timestamp 8388000 us: [B9 62 20] channel 10: control change 98 value: 32
+timestamp 8389000 us: [B9 63 01] channel 10: control change 99 value: 1
+timestamp 8389000 us: [B9 06 40] channel 10: control change 6 value: 64
+timestamp 8390000 us: [B9 64 7F] channel 10: control change 100 value: 127
+timestamp 8391000 us: [B9 65 7F] channel 10: control change 101 value: 127
+timestamp 9752000 us: [B0 0A 40] channel 1: control change 10 value: 64
+timestamp 9753000 us: [B0 48 40] channel 1: control change 72 value: 64
+timestamp 9754000 us: [B0 62 66] channel 1: control change 98 value: 102
+timestamp 9754000 us: [B0 63 01] channel 1: control change 99 value: 1
+timestamp 9755000 us: [B0 06 40] channel 1: control change 6 value: 64
+timestamp 9756000 us: [B0 64 7F] channel 1: control change 100 value: 127
+timestamp 9756000 us: [B0 65 7F] channel 1: control change 101 value: 127
+timestamp 9757000 us: [B0 4A 40] channel 1: control change 74 value: 64
+timestamp 9758000 us: [B0 62 20] channel 1: control change 98 value: 32
+timestamp 9758000 us: [B0 63 01] channel 1: control change 99 value: 1
+timestamp 9759000 us: [B0 06 40] channel 1: control change 6 value: 64
+timestamp 9759000 us: [B0 64 7F] channel 1: control change 100 value: 127
+timestamp 9760000 us: [B0 65 7F] channel 1: control change 101 value: 127
+timestamp 9764000 us: Sysex message: F0 43 10 4C 00 00 04 7F F7
+timestamp 9765000 us: [B0 07 64] channel 1: control change 7 value: 100
+timestamp 9766000 us: [B0 0B 7F] channel 1: control change 11 value: 127
+timestamp 9767000 us: [90 19 02] channel 1: note On C#1 velocity: 2
+timestamp 9834000 us: [90 19 00] channel 1: note On C#1 velocity: 0
+timestamp 9854000 us: [90 3E 02] channel 1: note On D4 velocity: 2
+timestamp 9878000 us: [90 3E 00] channel 1: note On D4 velocity: 0
+timestamp 9937000 us: [90 4C 02] channel 1: note On E5 velocity: 2
+timestamp 9975000 us: [90 4C 00] channel 1: note On E5 velocity: 0
+timestamp 10014000 us: [90 17 02] channel 1: note On B0 velocity: 2
+timestamp 10043000 us: [90 17 00] channel 1: note On B0 velocity: 0
+timestamp 10106000 us: [90 16 02] channel 1: note On A#0 velocity: 2
+timestamp 10164000 us: [90 16 00] channel 1: note On A#0 velocity: 0
+timestamp 10171000 us: [B1 79 00] channel 2: control change 121 value: 0
+timestamp 10242000 us: [90 35 02] channel 1: note On F3 velocity: 2
+timestamp 10252000 us: [B1 5B 00] channel 2: control change 91 value: 0
+timestamp 10252000 us: [B1 5D 20] channel 2: control change 93 value: 32
+timestamp 10254000 us: [B2 79 00] channel 3: control change 121 value: 0
+timestamp 10256000 us: [B3 79 00] channel 4: control change 121 value: 0
+timestamp 10300000 us: [90 35 00] channel 1: note On F3 velocity: 0
+timestamp 10324000 us: [B2 5B 40] channel 3: control change 91 value: 64
+timestamp 10325000 us: [B2 5D 00] channel 3: control change 93 value: 0
+timestamp 10334000 us: [90 21 02] channel 1: note On A1 velocity: 2
+timestamp 10338000 us: [F8] Timing clock
+timestamp 10338000 us: [FE] Active Sensing
+timestamp 10354000 us: [B4 79 00] channel 5: control change 121 value: 0
+timestamp 10359000 us: [90 21 00] channel 1: note On A1 velocity: 0
+timestamp 10359000 us: [F8] Timing clock
+timestamp 10371000 us: [90 0B 02] channel 1: note On B-1 velocity: 2
+timestamp 10373000 us: [B5 79 00] channel 6: control change 121 value: 0
+timestamp 10375000 us: [B6 79 00] channel 7: control change 121 value: 0
+timestamp 10377000 us: [B7 79 00] channel 8: control change 121 value: 0
+timestamp 10379000 us: [F8] Timing clock
+timestamp 10397000 us: [B3 5B 68] channel 4: control change 91 value: 104
+timestamp 10397000 us: [B3 5D 00] channel 4: control change 93 value: 0
+timestamp 10399000 us: [F8] Timing clock
+timestamp 10415000 us: [F8] Timing clock
+timestamp 10435000 us: [F8] Timing clock
+timestamp 10450000 us: [90 0B 00] channel 1: note On B-1 velocity: 0
+timestamp 10454000 us: [F8] Timing clock
+timestamp 10460000 us: [B4 5B 6E] channel 5: control change 91 value: 110
+timestamp 10460000 us: [B4 5D 18] channel 5: control change 93 value: 24
+timestamp 10473000 us: [F8] Timing clock
+timestamp 10494000 us: [90 3C 02] channel 1: note On C4 velocity: 2
+timestamp 10495000 us: [F8] Timing clock
+timestamp 10512000 us: [F8] Timing clock
+timestamp 10532000 us: [90 3C 00] channel 1: note On C4 velocity: 0
+timestamp 10532000 us: [F8] Timing clock
+timestamp 10537000 us: [FE] Active Sensing
+timestamp 10552000 us: [B5 5B 68] channel 6: control change 91 value: 104
+timestamp 10552000 us: [B5 5D 54] channel 6: control change 93 value: 84
+timestamp 10553000 us: [F8] Timing clock
+timestamp 10570000 us: [F8] Timing clock
+timestamp 10589000 us: [F8] Timing clock
+timestamp 10596000 us: [90 05 02] channel 1: note On F-1 velocity: 2
+timestamp 10601000 us: [B8 79 00] channel 9: control change 121 value: 0
+timestamp 10609000 us: [F8] Timing clock
+timestamp 10620000 us: [B6 5B 52] channel 7: control change 91 value: 82
+timestamp 10620000 us: [B6 5D 00] channel 7: control change 93 value: 0
+timestamp 10629000 us: [F8] Timing clock
+timestamp 10648000 us: [F8] Timing clock
+timestamp 10670000 us: [90 05 00] channel 1: note On F-1 velocity: 0
+timestamp 10670000 us: [F8] Timing clock
+timestamp 10673000 us: [90 31 02] channel 1: note On C#3 velocity: 2
+timestamp 10687000 us: [90 31 00] channel 1: note On C#3 velocity: 0
+timestamp 10688000 us: [F8] Timing clock
+timestamp 10692000 us: [B7 5B 6C] channel 8: control change 91 value: 108
+timestamp 10693000 us: [B7 5D 00] channel 8: control change 93 value: 0
+timestamp 10706000 us: [F8] Timing clock
+timestamp 10725000 us: [F8] Timing clock
+timestamp 10737000 us: [FE] Active Sensing
+timestamp 10746000 us: [90 0E 02] channel 1: note On D0 velocity: 2
+timestamp 10747000 us: [F8] Timing clock
+timestamp 10764000 us: [F8] Timing clock
+timestamp 10775000 us: [B8 5B 64] channel 9: control change 91 value: 100
+timestamp 10775000 us: [B8 5D 00] channel 9: control change 93 value: 0
+timestamp 10783000 us: [F8] Timing clock
+timestamp 10803000 us: [F8] Timing clock
+timestamp 10822000 us: [F8] Timing clock
+timestamp 10829000 us: [90 0E 00] channel 1: note On D0 velocity: 0
+timestamp 10841000 us: [F8] Timing clock
+timestamp 10852000 us: [B9 5B 34] channel 10: control change 91 value: 52
+timestamp 10853000 us: [B9 5D 00] channel 10: control change 93 value: 0
+timestamp 10858000 us: [90 0B 02] channel 1: note On B-1 velocity: 2
+timestamp 10861000 us: [F8] Timing clock
+timestamp 10881000 us: [90 0B 00] channel 1: note On B-1 velocity: 0
+timestamp 10881000 us: [F8] Timing clock
+timestamp 10900000 us: [F8] Timing clock
+timestamp 10911000 us: [90 43 02] channel 1: note On G4 velocity: 2
+timestamp 10919000 us: [F8] Timing clock
+timestamp 10937000 us: [FE] Active Sensing
+timestamp 10938000 us: [F8] Timing clock
+timestamp 10958000 us: [F8] Timing clock
+timestamp 10979000 us: [F8] Timing clock
+timestamp 10983000 us: [90 43 00] channel 1: note On G4 velocity: 0
+timestamp 10997000 us: [F8] Timing clock
+timestamp 11016000 us: [F8] Timing clock
+timestamp 11035000 us: [F8] Timing clock
+timestamp 11055000 us: [F8] Timing clock
+timestamp 11074000 us: [F8] Timing clock
+timestamp 11080000 us: [90 2B 02] channel 1: note On G2 velocity: 2
+timestamp 11093000 us: [F8] Timing clock
+timestamp 11113000 us: [F8] Timing clock
+timestamp 11128000 us: [90 2B 00] channel 1: note On G2 velocity: 0
+timestamp 11132000 us: [F8] Timing clock
+timestamp 11138000 us: [FE] Active Sensing
+timestamp 11151000 us: [F8] Timing clock
+timestamp 11171000 us: [F8] Timing clock
+timestamp 11187000 us: [90 11 02] channel 1: note On F0 velocity: 2
+timestamp 11190000 us: [F8] Timing clock
+timestamp 11210000 us: [F8] Timing clock
+timestamp 11225000 us: [90 11 00] channel 1: note On F0 velocity: 0
+timestamp 11229000 us: [F8] Timing clock
+timestamp 11248000 us: [F8] Timing clock
+timestamp 11269000 us: [F8] Timing clock
+timestamp 11289000 us: [E4 00 40] channel 5: pitch wheel change 8192
+timestamp 11290000 us: [F8] Timing clock
+timestamp 11303000 us: [E1 00 40] channel 2: pitch wheel change 8192
+timestamp 11308000 us: [E2 00 40] channel 3: pitch wheel change 8192
+timestamp 11310000 us: [E3 00 40] channel 4: pitch wheel change 8192
+timestamp 11312000 us: [E5 00 40] channel 6: pitch wheel change 8192
+timestamp 11313000 us: [E6 00 40] channel 7: pitch wheel change 8192
+timestamp 11315000 us: [E7 00 40] channel 8: pitch wheel change 8192
+timestamp 11316000 us: [E8 00 40] channel 9: pitch wheel change 8192
+timestamp 11318000 us: [E9 00 40] channel 10: pitch wheel change 8192
+timestamp 11319000 us: [F8] Timing clock
+timestamp 11321000 us: [90 3D 02] channel 1: note On C#4 velocity: 2
+timestamp 11326000 us: [F8] Timing clock
+timestamp 11338000 us: [FE] Active Sensing
+timestamp 11345000 us: [F8] Timing clock
+timestamp 11365000 us: [F8] Timing clock
+timestamp 11385000 us: [E4 00 00] channel 5: pitch wheel change 0
+timestamp 11386000 us: [F8] Timing clock
+timestamp 11400000 us: [90 3D 00] channel 1: note On C#4 velocity: 0
+timestamp 11403000 us: [F8] Timing clock
+timestamp 11424000 us: [90 21 02] channel 1: note On A1 velocity: 2
+timestamp 11425000 us: [F8] Timing clock
+timestamp 11442000 us: [F8] Timing clock
+timestamp 11453000 us: [90 21 00] channel 1: note On A1 velocity: 0
+timestamp 11458000 us: [90 49 02] channel 1: note On C#5 velocity: 2
+timestamp 11462000 us: [F8] Timing clock
+timestamp 11481000 us: [F8] Timing clock
+timestamp 11500000 us: [F8] Timing clock
+timestamp 11516000 us: [90 49 00] channel 1: note On C#5 velocity: 0
+timestamp 11520000 us: [F8] Timing clock
+timestamp 11536000 us: [90 0D 02] channel 1: note On C#0 velocity: 2
+timestamp 11538000 us: [FE] Active Sensing
+timestamp 11539000 us: [F8] Timing clock
+timestamp 11558000 us: [F8] Timing clock
+timestamp 11580000 us: [F8] Timing clock
+timestamp 11598000 us: [F8] Timing clock
+timestamp 11617000 us: [F8] Timing clock
+timestamp 11622000 us: [90 0D 00] channel 1: note On C#0 velocity: 0
+timestamp 11636000 us: [F8] Timing clock
+timestamp 11657000 us: [90 42 02] channel 1: note On F#4 velocity: 2
+timestamp 11658000 us: [F8] Timing clock
+timestamp 11675000 us: [F8] Timing clock
+timestamp 11694000 us: [F8] Timing clock
+timestamp 11714000 us: [F8] Timing clock
+timestamp 11733000 us: [F8] Timing clock
+timestamp 11738000 us: [FE] Active Sensing
+timestamp 11749000 us: [90 42 00] channel 1: note On F#4 velocity: 0
+timestamp 11752000 us: [F8] Timing clock
+timestamp 11772000 us: [F8] Timing clock
+timestamp 11783000 us: [90 2F 02] channel 1: note On B2 velocity: 2
+timestamp 11791000 us: [F8] Timing clock
+timestamp 11810000 us: [F8] Timing clock
+timestamp 11830000 us: [F8] Timing clock
+timestamp 11849000 us: [F8] Timing clock
+timestamp 11870000 us: [90 2F 00] channel 1: note On B2 velocity: 0
+timestamp 11870000 us: [F8] Timing clock
+timestamp 11888000 us: [F8] Timing clock
+timestamp 11904000 us: [90 06 02] channel 1: note On F#-1 velocity: 2
+timestamp 11908000 us: [F8] Timing clock
+timestamp 11928000 us: [90 06 00] channel 1: note On F#-1 velocity: 0
+timestamp 11929000 us: [F8] Timing clock
+timestamp 11938000 us: [FE] Active Sensing
+timestamp 11946000 us: [F8] Timing clock
+timestamp 11967000 us: [90 3D 02] channel 1: note On C#4 velocity: 2
+timestamp 11970000 us: [F8] Timing clock
+timestamp 11985000 us: [F8] Timing clock
+timestamp 12004000 us: [F8] Timing clock
+timestamp 12024000 us: [F8] Timing clock
+timestamp 12029000 us: [90 3D 00] channel 1: note On C#4 velocity: 0
+timestamp 12043000 us: [F8] Timing clock
+timestamp 12062000 us: [F8] Timing clock
+timestamp 12083000 us: [90 06 02] channel 1: note On F#-1 velocity: 2
+timestamp 12083000 us: [F8] Timing clock
+timestamp 12101000 us: [F8] Timing clock
+timestamp 12121000 us: [90 06 00] channel 1: note On F#-1 velocity: 0
+timestamp 12122000 us: [F8] Timing clock
+timestamp 12138000 us: [FE] Active Sensing
+timestamp 12140000 us: [F8] Timing clock
+timestamp 12159000 us: [F8] Timing clock
+timestamp 12180000 us: [F8] Timing clock
+timestamp 12198000 us: [F8] Timing clock
+timestamp 12204000 us: [90 0B 02] channel 1: note On B-1 velocity: 2
+timestamp 12218000 us: [F8] Timing clock
+timestamp 12238000 us: [F8] Timing clock
+timestamp 12256000 us: [F8] Timing clock
+timestamp 12272000 us: [90 0B 00] channel 1: note On B-1 velocity: 0
+timestamp 12276000 us: [F8] Timing clock
+timestamp 12295000 us: [F8] Timing clock
+timestamp 12314000 us: [F8] Timing clock
+timestamp 12334000 us: [F8] Timing clock
+timestamp 12338000 us: [FE] Active Sensing
+timestamp 12355000 us: [90 46 02] channel 1: note On A#4 velocity: 2
+timestamp 12355000 us: [F8] Timing clock
+timestamp 12369000 us: [90 46 00] channel 1: note On A#4 velocity: 0
+timestamp 12374000 us: [90 1C 02] channel 1: note On E1 velocity: 2
+timestamp 12374000 us: [F8] Timing clock
+timestamp 12392000 us: [F8] Timing clock
+timestamp 12411000 us: [F8] Timing clock
+timestamp 12431000 us: [F8] Timing clock
+timestamp 12450000 us: [F8] Timing clock
+timestamp 12470000 us: [90 1C 00] channel 1: note On E1 velocity: 0
+timestamp 12470000 us: [F8] Timing clock
+timestamp 12490000 us: [90 0C 02] channel 1: note On C0 velocity: 2
+timestamp 12491000 us: [F8] Timing clock
+timestamp 12508000 us: [F8] Timing clock
+timestamp 12529000 us: [F8] Timing clock
+timestamp 12538000 us: [FE] Active Sensing
+timestamp 12548000 us: [F8] Timing clock
+timestamp 12567000 us: [90 0C 00] channel 1: note On C0 velocity: 0
+timestamp 12568000 us: [F8] Timing clock
+timestamp 12573000 us: [90 19 02] channel 1: note On C#1 velocity: 2
+timestamp 12586000 us: [F8] Timing clock
+timestamp 12605000 us: [F8] Timing clock
+timestamp 12624000 us: [F8] Timing clock
+timestamp 12644000 us: [90 19 00] channel 1: note On C#1 velocity: 0
+timestamp 12645000 us: [F8] Timing clock
+timestamp 12663000 us: [F8] Timing clock
+timestamp 12681000 us: [90 50 02] channel 1: note On G#5 velocity: 2
+timestamp 12683000 us: [F8] Timing clock
+timestamp 12699000 us: [90 50 00] channel 1: note On G#5 velocity: 0
+timestamp 12702000 us: [F8] Timing clock
+timestamp 12721000 us: [F8] Timing clock
+timestamp 12739000 us: [FE] Active Sensing
+timestamp 12741000 us: [F8] Timing clock
+timestamp 12760000 us: [F8] Timing clock
+timestamp 12779000 us: [F8] Timing clock
+timestamp 12786000 us: [90 4E 02] channel 1: note On F#5 velocity: 2
+timestamp 12795000 us: [90 4E 00] channel 1: note On F#5 velocity: 0
+timestamp 12799000 us: [F8] Timing clock
+timestamp 12811000 us: [90 07 02] channel 1: note On G-1 velocity: 2
+timestamp 12818000 us: [F8] Timing clock
+timestamp 12838000 us: [F8] Timing clock
+timestamp 12858000 us: [F8] Timing clock
+timestamp 12876000 us: [F8] Timing clock
+timestamp 12896000 us: [F8] Timing clock
+timestamp 12901000 us: [90 07 00] channel 1: note On G-1 velocity: 0
+timestamp 12915000 us: [F8] Timing clock
+timestamp 12934000 us: [F8] Timing clock
+timestamp 12938000 us: [FE] Active Sensing
+timestamp 12954000 us: [F8] Timing clock
+timestamp 12973000 us: [F8] Timing clock
+timestamp 12993000 us: [F8] Timing clock
+timestamp 12999000 us: [90 2F 02] channel 1: note On B2 velocity: 2
+timestamp 13012000 us: [F8] Timing clock
+timestamp 13031000 us: [F8] Timing clock
+timestamp 13051000 us: [F8] Timing clock
+timestamp 13056000 us: [90 2F 00] channel 1: note On B2 velocity: 0
+timestamp 13070000 us: [F8] Timing clock
+timestamp 13091000 us: [90 03 02] channel 1: note On D#-1 velocity: 2
+timestamp 13091000 us: [F8] Timing clock
+timestamp 13100000 us: [90 03 00] channel 1: note On D#-1 velocity: 0
+timestamp 13109000 us: [F8] Timing clock
+timestamp 13125000 us: [90 43 02] channel 1: note On G4 velocity: 2
+timestamp 13129000 us: [F8] Timing clock
+timestamp 13138000 us: [FE] Active Sensing
+timestamp 13148000 us: [F8] Timing clock
+timestamp 13168000 us: [F8] Timing clock
+timestamp 13173000 us: [90 43 00] channel 1: note On G4 velocity: 0
+timestamp 13186000 us: [F8] Timing clock
+timestamp 13206000 us: [F8] Timing clock
+timestamp 13225000 us: [F8] Timing clock
+timestamp 13241000 us: [90 31 02] channel 1: note On C#3 velocity: 2
+timestamp 13246000 us: [B4 07 54] channel 5: control change 7 value: 84
+timestamp 13247000 us: [B4 0B 7F] channel 5: control change 11 value: 127
+timestamp 13248000 us: [94 4D 64] channel 5: note On F5 velocity: 100
+timestamp 13249000 us: [94 59 73] channel 5: note On F6 velocity: 115
+timestamp 13250000 us: [F8] Timing clock
+timestamp 13264000 us: [F8] Timing clock
+timestamp 13284000 us: [F8] Timing clock
+timestamp 13294000 us: [90 31 00] channel 1: note On C#3 velocity: 0
+timestamp 13304000 us: [90 09 02] channel 1: note On A-1 velocity: 2
+timestamp 13304000 us: [F8] Timing clock
+timestamp 13319000 us: [90 09 00] channel 1: note On A-1 velocity: 0
+timestamp 13322000 us: [F8] Timing clock
+timestamp 13338000 us: [FE] Active Sensing
+timestamp 13341000 us: [F8] Timing clock
+timestamp 13361000 us: [F8] Timing clock
+timestamp 13382000 us: [B1 07 6E] channel 2: control change 7 value: 110
+timestamp 13382000 us: [B1 0B 7F] channel 2: control change 11 value: 127
+timestamp 13383000 us: [91 1D 5C] channel 2: note On F1 velocity: 92
+timestamp 13385000 us: [B9 07 72] channel 10: control change 7 value: 114
+timestamp 13385000 us: [B9 0B 7F] channel 10: control change 11 value: 127
+timestamp 13386000 us: [99 23 6D] channel 10: note On B1 velocity: 109
+timestamp 13386000 us: [F8] Timing clock
+timestamp 13388000 us: [90 3B 02] channel 1: note On B3 velocity: 2
+timestamp 13391000 us: [99 23 00] channel 10: note On B1 velocity: 0
+timestamp 13400000 us: [F8] Timing clock
+timestamp 13411000 us: [90 3B 00] channel 1: note On B3 velocity: 0
+timestamp 13420000 us: [90 14 02] channel 1: note On G#0 velocity: 2
+timestamp 13421000 us: [F8] Timing clock
+timestamp 13441000 us: [E4 00 12] channel 5: pitch wheel change 2304
+timestamp 13442000 us: [F8] Timing clock
+timestamp 13459000 us: [E4 00 25] channel 5: pitch wheel change 4736
+timestamp 13460000 us: [F8] Timing clock
+timestamp 13473000 us: [E4 00 2F] channel 5: pitch wheel change 6016
+timestamp 13475000 us: [90 14 00] channel 1: note On G#0 velocity: 0
+timestamp 13480000 us: [F8] Timing clock
+timestamp 13493000 us: [E4 00 3A] channel 5: pitch wheel change 7424
+timestamp 13496000 us: [F8] Timing clock
+timestamp 13512000 us: [E4 00 40] channel 5: pitch wheel change 8192
+timestamp 13516000 us: [F8] Timing clock
+timestamp 13535000 us: [F8] Timing clock
+timestamp 13538000 us: [FE] Active Sensing
+timestamp 13555000 us: [F8] Timing clock
+timestamp 13574000 us: [F8] Timing clock
+timestamp 13593000 us: [F8] Timing clock
+timestamp 13613000 us: [F8] Timing clock
+timestamp 13632000 us: [F8] Timing clock
+timestamp 13652000 us: [F8] Timing clock
+timestamp 13671000 us: [F8] Timing clock
+timestamp 13690000 us: [F8] Timing clock
+timestamp 13710000 us: [F8] Timing clock
+timestamp 13716000 us: [B2 07 77] channel 3: control change 7 value: 119
+timestamp 13716000 us: [B2 0B 7F] channel 3: control change 11 value: 127
+timestamp 13718000 us: [92 35 45] channel 3: note On F3 velocity: 69
+timestamp 13729000 us: [F8] Timing clock
+timestamp 13738000 us: [FE] Active Sensing
+timestamp 13748000 us: [F8] Timing clock
+timestamp 13769000 us: [F8] Timing clock
+timestamp 13789000 us: [F8] Timing clock
+timestamp 13807000 us: [F8] Timing clock
+timestamp 13826000 us: [F8] Timing clock
+timestamp 13847000 us: [99 23 6D] channel 10: note On B1 velocity: 109
+timestamp 13847000 us: [F8] Timing clock
+timestamp 13857000 us: [92 3E 55] channel 3: note On D4 velocity: 85
+timestamp 13858000 us: [99 23 00] channel 10: note On B1 velocity: 0
+timestamp 13862000 us: [92 3A 4E] channel 3: note On A#3 velocity: 78
+timestamp 13865000 us: [F8] Timing clock
+timestamp 13884000 us: [F8] Timing clock
+timestamp 13904000 us: [F8] Timing clock
+timestamp 13924000 us: [92 3E 00] channel 3: note On D4 velocity: 0
+timestamp 13924000 us: [F8] Timing clock
+timestamp 13931000 us: [92 3A 00] channel 3: note On A#3 velocity: 0
+timestamp 13938000 us: [FE] Active Sensing
+timestamp 13942000 us: [F8] Timing clock
+timestamp 13962000 us: [F8] Timing clock
+timestamp 13981000 us: [F8] Timing clock
+timestamp 13991000 us: [92 35 00] channel 3: note On F3 velocity: 0
+timestamp 14000000 us: [F8] Timing clock
+timestamp 14020000 us: [F8] Timing clock
+timestamp 14039000 us: [F8] Timing clock
+timestamp 14058000 us: [F8] Timing clock
+timestamp 14080000 us: [F8] Timing clock
+timestamp 14098000 us: [F8] Timing clock
+timestamp 14117000 us: [F8] Timing clock
+timestamp 14136000 us: [F8] Timing clock
+timestamp 14140000 us: [FE] Active Sensing
+timestamp 14156000 us: [F8] Timing clock
+timestamp 14175000 us: [F8] Timing clock
+timestamp 14191000 us: [92 35 46] channel 3: note On F3 velocity: 70
+timestamp 14192000 us: [92 39 46] channel 3: note On A3 velocity: 70
+timestamp 14194000 us: [92 3C 46] channel 3: note On C4 velocity: 70
+timestamp 14194000 us: [F8] Timing clock
+timestamp 14214000 us: [F8] Timing clock
+timestamp 14233000 us: [F8] Timing clock
+timestamp 14252000 us: [F8] Timing clock
+timestamp 14272000 us: [F8] Timing clock
+timestamp 14291000 us: [F8] Timing clock
+timestamp 14312000 us: [99 23 6D] channel 10: note On B1 velocity: 109
+timestamp 14312000 us: [F8] Timing clock
+timestamp 14321000 us: [99 23 00] channel 10: note On B1 velocity: 0
+timestamp 14330000 us: [F8] Timing clock
+timestamp 14338000 us: [FE] Active Sensing
+timestamp 14350000 us: [F8] Timing clock
+timestamp 14369000 us: [F8] Timing clock
+timestamp 14389000 us: [F8] Timing clock
+timestamp 14408000 us: [F8] Timing clock
+timestamp 14427000 us: [F8] Timing clock
+timestamp 14446000 us: [F8] Timing clock
+timestamp 14466000 us: [F8] Timing clock
+timestamp 14476000 us: [92 35 00] channel 3: note On F3 velocity: 0
+timestamp 14485000 us: [F8] Timing clock
+timestamp 14504000 us: [F8] Timing clock
+timestamp 14524000 us: [F8] Timing clock
+timestamp 14539000 us: [FE] Active Sensing
+timestamp 14544000 us: [92 3C 00] channel 3: note On C4 velocity: 0
+timestamp 14544000 us: [F8] Timing clock
+timestamp 14553000 us: [92 39 00] channel 3: note On A3 velocity: 0
+timestamp 14562000 us: [F8] Timing clock
+timestamp 14582000 us: [F8] Timing clock
+timestamp 14601000 us: [F8] Timing clock
+timestamp 14621000 us: [F8] Timing clock
+timestamp 14641000 us: [92 35 48] channel 3: note On F3 velocity: 72
+timestamp 14642000 us: [F8] Timing clock
+timestamp 14659000 us: [F8] Timing clock
+timestamp 14680000 us: [F8] Timing clock
+timestamp 14700000 us: [F8] Timing clock
+timestamp 14718000 us: [F8] Timing clock
+timestamp 14737000 us: [F8] Timing clock
+timestamp 14738000 us: [FE] Active Sensing
+timestamp 14756000 us: [F8] Timing clock
+timestamp 14777000 us: [92 3A 56] channel 3: note On A#3 velocity: 86
+timestamp 14778000 us: [92 3E 52] channel 3: note On D4 velocity: 82
+timestamp 14780000 us: [99 23 6D] channel 10: note On B1 velocity: 109
+timestamp 14783000 us: [F8] Timing clock
+timestamp 14786000 us: [99 23 00] channel 10: note On B1 velocity: 0
+timestamp 14795000 us: [F8] Timing clock
+timestamp 14814000 us: [F8] Timing clock
+timestamp 14834000 us: [F8] Timing clock
+timestamp 14845000 us: [92 3E 00] channel 3: note On D4 velocity: 0
+timestamp 14845000 us: [92 3A 00] channel 3: note On A#3 velocity: 0
+timestamp 14853000 us: [F8] Timing clock
+timestamp 14872000 us: [F8] Timing clock
+timestamp 14892000 us: [F8] Timing clock
+timestamp 14897000 us: [92 35 00] channel 3: note On F3 velocity: 0
+timestamp 14911000 us: [F8] Timing clock
+timestamp 14931000 us: [F8] Timing clock
+timestamp 14938000 us: [FE] Active Sensing
+timestamp 14950000 us: [F8] Timing clock
+timestamp 14969000 us: [F8] Timing clock
+timestamp 14989000 us: [F8] Timing clock
+timestamp 15009000 us: [F8] Timing clock
+timestamp 15028000 us: [F8] Timing clock
+timestamp 15047000 us: [F8] Timing clock
+timestamp 15066000 us: [F8] Timing clock
+timestamp 15086000 us: [F8] Timing clock
+timestamp 15105000 us: [F8] Timing clock
+timestamp 15111000 us: [92 35 48] channel 3: note On F3 velocity: 72
+timestamp 15116000 us: [92 39 42] channel 3: note On A3 velocity: 66
+timestamp 15121000 us: [92 3C 42] channel 3: note On C4 velocity: 66
+timestamp 15124000 us: [F8] Timing clock
+timestamp 15138000 us: [FE] Active Sensing
+timestamp 15144000 us: [F8] Timing clock
+timestamp 15163000 us: [F8] Timing clock
+timestamp 15183000 us: [F8] Timing clock
+timestamp 15202000 us: [F8] Timing clock
+timestamp 15221000 us: [F8] Timing clock
+timestamp 15243000 us: [99 23 6D] channel 10: note On B1 velocity: 109
+timestamp 15243000 us: [F8] Timing clock
+timestamp 15251000 us: [99 23 00] channel 10: note On B1 velocity: 0
+timestamp 15260000 us: [F8] Timing clock
+timestamp 15281000 us: [F8] Timing clock
+timestamp 15299000 us: [F8] Timing clock
+timestamp 15319000 us: [F8] Timing clock
+timestamp 15338000 us: [F8] Timing clock
+timestamp 15339000 us: [FE] Active Sensing
+timestamp 15357000 us: [F8] Timing clock
+timestamp 15376000 us: [F8] Timing clock
+timestamp 15396000 us: [F8] Timing clock
+timestamp 15415000 us: [F8] Timing clock
+timestamp 15434000 us: [F8] Timing clock
+timestamp 15454000 us: [F8] Timing clock
+timestamp 15460000 us: [92 35 00] channel 3: note On F3 velocity: 0
+timestamp 15473000 us: [F8] Timing clock
+timestamp 15493000 us: [F8] Timing clock
+timestamp 15512000 us: [F8] Timing clock
+timestamp 15532000 us: [92 3C 00] channel 3: note On C4 velocity: 0
+timestamp 15533000 us: [F8] Timing clock
+timestamp 15539000 us: [FE] Active Sensing
+timestamp 15551000 us: [92 39 00] channel 3: note On A3 velocity: 0
+timestamp 15552000 us: [F8] Timing clock
+timestamp 15571000 us: [92 35 45] channel 3: note On F3 velocity: 69
+timestamp 15572000 us: [F8] Timing clock
+timestamp 15590000 us: [F8] Timing clock
+timestamp 15610000 us: [F8] Timing clock
+timestamp 15629000 us: [F8] Timing clock
+timestamp 15639000 us: [92 35 00] channel 3: note On F3 velocity: 0
+timestamp 15649000 us: [F8] Timing clock
+timestamp 15667000 us: [F8] Timing clock
+timestamp 15686000 us: [F8] Timing clock
+timestamp 15707000 us: [92 3A 57] channel 3: note On A#3 velocity: 87
+timestamp 15709000 us: [99 23 6D] channel 10: note On B1 velocity: 109
+timestamp 15710000 us: [F8] Timing clock
+timestamp 15717000 us: [92 3E 56] channel 3: note On D4 velocity: 86
+timestamp 15719000 us: [99 23 00] channel 10: note On B1 velocity: 0
+timestamp 15720000 us: [92 35 50] channel 3: note On F3 velocity: 80
+timestamp 15725000 us: [F8] Timing clock
+timestamp 15739000 us: [FE] Active Sensing
+timestamp 15745000 us: [F8] Timing clock
+timestamp 15764000 us: [F8] Timing clock
+timestamp 15775000 us: [92 3A 00] channel 3: note On A#3 velocity: 0
+timestamp 15782000 us: [94 59 00] channel 5: note On F6 velocity: 0
+timestamp 15782000 us: [94 4D 00] channel 5: note On F5 velocity: 0
+timestamp 15784000 us: [92 3E 00] channel 3: note On D4 velocity: 0
+timestamp 15785000 us: [F8] Timing clock
+timestamp 15803000 us: [F8] Timing clock
+timestamp 15818000 us: [92 35 00] channel 3: note On F3 velocity: 0
+timestamp 15822000 us: [F8] Timing clock
+timestamp 15841000 us: [F8] Timing clock
+timestamp 15861000 us: [F8] Timing clock
+timestamp 15881000 us: [F8] Timing clock
+timestamp 15900000 us: [F8] Timing clock
+timestamp 15919000 us: [F8] Timing clock
+timestamp 15939000 us: [F8] Timing clock
+timestamp 15939000 us: [FE] Active Sensing
+timestamp 15960000 us: [F8] Timing clock
+timestamp 15977000 us: [F8] Timing clock
+timestamp 15999000 us: [94 48 65] channel 5: note On C5 velocity: 101
+timestamp 16000000 us: [94 54 65] channel 5: note On C6 velocity: 101
+timestamp 16001000 us: [F8] Timing clock
+timestamp 16016000 us: [F8] Timing clock
+timestamp 16035000 us: [F8] Timing clock
+timestamp 16052000 us: [92 35 41] channel 3: note On F3 velocity: 65
+timestamp 16053000 us: [92 39 40] channel 3: note On A3 velocity: 64
+timestamp 16054000 us: [92 3C 41] channel 3: note On C4 velocity: 65
+timestamp 16055000 us: [F8] Timing clock
+timestamp 16071000 us: [94 54 00] channel 5: note On C6 velocity: 0
+timestamp 16071000 us: [94 48 00] channel 5: note On C5 velocity: 0
+timestamp 16074000 us: [F8] Timing clock
+timestamp 16093000 us: [F8] Timing clock
+timestamp 16113000 us: [F8] Timing clock
+timestamp 16132000 us: [F8] Timing clock
+timestamp 16139000 us: [FE] Active Sensing
+timestamp 16153000 us: [94 4B 69] channel 5: note On D#5 velocity: 105
+timestamp 16155000 us: [94 57 67] channel 5: note On D#6 velocity: 103
+timestamp 16155000 us: [F8] Timing clock
+timestamp 16173000 us: [99 23 6D] channel 10: note On B1 velocity: 109
+timestamp 16173000 us: [F8] Timing clock
+timestamp 16181000 us: [99 23 00] channel 10: note On B1 velocity: 0
+timestamp 16190000 us: [F8] Timing clock
+timestamp 16210000 us: [F8] Timing clock
+timestamp 16225000 us: [94 57 00] channel 5: note On D#6 velocity: 0
+timestamp 16226000 us: [94 4B 00] channel 5: note On D#5 velocity: 0
+timestamp 16229000 us: [F8] Timing clock
+timestamp 16249000 us: [F8] Timing clock
+timestamp 16269000 us: [F8] Timing clock
+timestamp 16287000 us: [F8] Timing clock
+timestamp 16308000 us: [94 48 65] channel 5: note On C5 velocity: 101
+timestamp 16310000 us: [94 54 63] channel 5: note On C6 velocity: 99
+timestamp 16313000 us: [F8] Timing clock
+timestamp 16326000 us: [F8] Timing clock
+timestamp 16339000 us: [FE] Active Sensing
+timestamp 16345000 us: [F8] Timing clock
+timestamp 16365000 us: [F8] Timing clock
+timestamp 16383000 us: [92 35 00] channel 3: note On F3 velocity: 0
+timestamp 16384000 us: [94 54 00] channel 5: note On C6 velocity: 0
+timestamp 16385000 us: [94 48 00] channel 5: note On C5 velocity: 0
+timestamp 16385000 us: [F8] Timing clock
+timestamp 16403000 us: [F8] Timing clock
+timestamp 16423000 us: [F8] Timing clock
+timestamp 16443000 us: [92 39 00] channel 3: note On A3 velocity: 0
+timestamp 16444000 us: [F8] Timing clock
+timestamp 16453000 us: [92 3C 00] channel 3: note On C4 velocity: 0
+timestamp 16464000 us: [94 45 65] channel 5: note On A4 velocity: 101
+timestamp 16465000 us: [94 51 65] channel 5: note On A5 velocity: 101
+timestamp 16465000 us: [F8] Timing clock
+timestamp 16481000 us: [F8] Timing clock
+timestamp 16500000 us: [F8] Timing clock
+timestamp 16507000 us: [92 35 45] channel 3: note On F3 velocity: 69
+timestamp 16521000 us: [F8] Timing clock
+timestamp 16536000 us: [94 51 00] channel 5: note On A5 velocity: 0
+timestamp 16536000 us: [94 45 00] channel 5: note On A4 velocity: 0
+timestamp 16539000 us: [F8] Timing clock
+timestamp 16539000 us: [FE] Active Sensing
+timestamp 16559000 us: [F8] Timing clock
+timestamp 16581000 us: [F8] Timing clock
+timestamp 16597000 us: [F8] Timing clock
+timestamp 16613000 us: [92 35 00] channel 3: note On F3 velocity: 0
+timestamp 16619000 us: [94 41 65] channel 5: note On F4 velocity: 101
+timestamp 16620000 us: [94 4D 63] channel 5: note On F5 velocity: 99
+timestamp 16621000 us: [F8] Timing clock
+timestamp 16638000 us: [99 23 6D] channel 10: note On B1 velocity: 109
+timestamp 16638000 us: [F8] Timing clock
+timestamp 16648000 us: [92 35 45] channel 3: note On F3 velocity: 69
+timestamp 16649000 us: [92 3A 51] channel 3: note On A#3 velocity: 81
+timestamp 16650000 us: [92 3E 56] channel 3: note On D4 velocity: 86
+timestamp 16652000 us: [99 23 00] channel 10: note On B1 velocity: 0
+timestamp 16655000 us: [F8] Timing clock
+timestamp 16675000 us: [F8] Timing clock
+timestamp 16691000 us: [94 4D 00] channel 5: note On F5 velocity: 0
+timestamp 16691000 us: [94 41 00] channel 5: note On F4 velocity: 0
+timestamp 16695000 us: [F8] Timing clock
+timestamp 16715000 us: [92 3E 00] channel 3: note On D4 velocity: 0
+timestamp 16716000 us: [92 3A 00] channel 3: note On A#3 velocity: 0
+timestamp 16716000 us: [92 35 00] channel 3: note On F3 velocity: 0
+timestamp 16717000 us: [F8] Timing clock
+timestamp 16733000 us: [F8] Timing clock
+timestamp 16739000 us: [FE] Active Sensing
+timestamp 16752000 us: [F8] Timing clock
+timestamp 16774000 us: [94 3F 6A] channel 5: note On D#4 velocity: 106
+timestamp 16775000 us: [94 4B 69] channel 5: note On D#5 velocity: 105
+timestamp 16776000 us: [F8] Timing clock
+timestamp 16791000 us: [F8] Timing clock
+timestamp 16810000 us: [F8] Timing clock
+timestamp 16830000 us: [F8] Timing clock
+timestamp 16845000 us: [94 4B 00] channel 5: note On D#5 velocity: 0
+timestamp 16846000 us: [94 3F 00] channel 5: note On D#4 velocity: 0
+timestamp 16849000 us: [F8] Timing clock
+timestamp 16865000 us: [91 1D 00] channel 2: note On F1 velocity: 0
+timestamp 16872000 us: [F8] Timing clock
+timestamp 16889000 us: [F8] Timing clock
+timestamp 16907000 us: [F8] Timing clock
+timestamp 16929000 us: [94 3C 63] channel 5: note On C4 velocity: 99
+timestamp 16930000 us: [94 48 64] channel 5: note On C5 velocity: 100
+timestamp 16931000 us: [F8] Timing clock
+timestamp 16940000 us: [FE] Active Sensing
+timestamp 16946000 us: [F8] Timing clock
+timestamp 16966000 us: [F8] Timing clock
+timestamp 16977000 us: [91 1D 59] channel 2: note On F1 velocity: 89
+timestamp 16982000 us: [92 35 48] channel 3: note On F3 velocity: 72
+timestamp 16984000 us: [92 39 44] channel 3: note On A3 velocity: 68
+timestamp 16985000 us: [92 3C 45] channel 3: note On C4 velocity: 69
+timestamp 16986000 us: [F8] Timing clock
+timestamp 17001000 us: [94 48 00] channel 5: note On C5 velocity: 0
+timestamp 17001000 us: [94 3C 00] channel 5: note On C4 velocity: 0
+timestamp 17005000 us: [F8] Timing clock
+timestamp 17024000 us: [F8] Timing clock
+timestamp 17043000 us: [F8] Timing clock
+timestamp 17062000 us: [F8] Timing clock
+timestamp 17084000 us: [E4 00 0C] channel 5: pitch wheel change 1536
+timestamp 17085000 us: [F8] Timing clock
+timestamp 17089000 us: [94 41 6C] channel 5: note On F4 velocity: 108
+timestamp 17091000 us: [94 4D 6E] channel 5: note On F5 velocity: 110
+timestamp 17103000 us: [99 23 6D] channel 10: note On B1 velocity: 109
+timestamp 17103000 us: [F8] Timing clock
+timestamp 17112000 us: [99 23 00] channel 10: note On B1 velocity: 0
+timestamp 17121000 us: [F8] Timing clock
+timestamp 17139000 us: [FE] Active Sensing
+timestamp 17140000 us: [F8] Timing clock
+timestamp 17159000 us: [F8] Timing clock
+timestamp 17181000 us: [F8] Timing clock
+timestamp 17199000 us: [F8] Timing clock
+timestamp 17217000 us: [F8] Timing clock
+timestamp 17237000 us: [F8] Timing clock
+timestamp 17243000 us: [E4 00 16] channel 5: pitch wheel change 2816
+timestamp 17256000 us: [F8] Timing clock
+timestamp 17262000 us: [E4 00 24] channel 5: pitch wheel change 4608
+timestamp 17276000 us: [F8] Timing clock
+timestamp 17282000 us: [92 35 00] channel 3: note On F3 velocity: 0
+timestamp 17287000 us: [E4 00 30] channel 5: pitch wheel change 6144
+timestamp 17295000 us: [F8] Timing clock
+timestamp 17306000 us: [E4 00 37] channel 5: pitch wheel change 7040
+timestamp 17315000 us: [F8] Timing clock
+timestamp 17320000 us: [E4 00 40] channel 5: pitch wheel change 8192
+timestamp 17330000 us: [92 39 00] channel 3: note On A3 velocity: 0
+timestamp 17334000 us: [F8] Timing clock
+timestamp 17340000 us: [FE] Active Sensing
+timestamp 17353000 us: [F8] Timing clock
+timestamp 17359000 us: [92 3C 00] channel 3: note On C4 velocity: 0
+timestamp 17373000 us: [F8] Timing clock
+timestamp 17392000 us: [F8] Timing clock
+timestamp 17411000 us: [F8] Timing clock
+timestamp 17433000 us: [92 35 48] channel 3: note On F3 velocity: 72
+timestamp 17433000 us: [F8] Timing clock
+timestamp 17450000 us: [F8] Timing clock
+timestamp 17470000 us: [F8] Timing clock
+timestamp 17489000 us: [F8] Timing clock
+timestamp 17509000 us: [F8] Timing clock
+timestamp 17528000 us: [F8] Timing clock
+timestamp 17533000 us: [92 35 00] channel 3: note On F3 velocity: 0
+timestamp 17539000 us: [FE] Active Sensing
+timestamp 17547000 us: [F8] Timing clock
+timestamp 17568000 us: [99 23 6D] channel 10: note On B1 velocity: 109
+timestamp 17568000 us: [F8] Timing clock
+timestamp 17578000 us: [92 3A 53] channel 3: note On A#3 velocity: 83
+timestamp 17579000 us: [92 3E 55] channel 3: note On D4 velocity: 85
+timestamp 17580000 us: [99 23 00] channel 10: note On B1 velocity: 0
+timestamp 17582000 us: [92 35 51] channel 3: note On F3 velocity: 81
+timestamp 17586000 us: [F8] Timing clock
+timestamp 17605000 us: [F8] Timing clock
+timestamp 17625000 us: [F8] Timing clock
+timestamp 17645000 us: [92 3E 00] channel 3: note On D4 velocity: 0
+timestamp 17646000 us: [92 3A 00] channel 3: note On A#3 velocity: 0
+timestamp 17647000 us: [92 35 00] channel 3: note On F3 velocity: 0
+timestamp 17647000 us: [F8] Timing clock
+timestamp 17663000 us: [F8] Timing clock
+timestamp 17683000 us: [F8] Timing clock
+timestamp 17702000 us: [F8] Timing clock
+timestamp 17721000 us: [F8] Timing clock
+timestamp 17739000 us: [FE] Active Sensing
+timestamp 17741000 us: [F8] Timing clock
+timestamp 17760000 us: [F8] Timing clock
+timestamp 17783000 us: [F8] Timing clock
+timestamp 17799000 us: [F8] Timing clock
+timestamp 17819000 us: [F8] Timing clock
+timestamp 17839000 us: [94 4D 00] channel 5: note On F5 velocity: 0
+timestamp 17839000 us: [94 41 00] channel 5: note On F4 velocity: 0
+timestamp 17840000 us: [F8] Timing clock
+timestamp 17859000 us: [94 3C 5F] channel 5: note On C4 velocity: 95
+timestamp 17860000 us: [94 48 60] channel 5: note On C5 velocity: 96
+timestamp 17861000 us: [F8] Timing clock
+timestamp 17876000 us: [F8] Timing clock
+timestamp 17896000 us: [F8] Timing clock
+timestamp 17907000 us: [92 35 41] channel 3: note On F3 velocity: 65
+timestamp 17912000 us: [92 39 42] channel 3: note On A3 velocity: 66
+timestamp 17914000 us: [92 3C 45] channel 3: note On C4 velocity: 69
+timestamp 17915000 us: [F8] Timing clock
+timestamp 17935000 us: [F8] Timing clock
+timestamp 17939000 us: [FE] Active Sensing
+timestamp 17954000 us: [F8] Timing clock
+timestamp 17973000 us: [F8] Timing clock
+timestamp 17993000 us: [F8] Timing clock
+timestamp 18012000 us: [F8] Timing clock
+timestamp 18033000 us: [99 23 6D] channel 10: note On B1 velocity: 109
+timestamp 18033000 us: [F8] Timing clock
+timestamp 18042000 us: [99 23 00] channel 10: note On B1 velocity: 0
+timestamp 18051000 us: [F8] Timing clock
+timestamp 18070000 us: [F8] Timing clock
+timestamp 18090000 us: [F8] Timing clock
+timestamp 18109000 us: [F8] Timing clock
+timestamp 18131000 us: [F8] Timing clock
+timestamp 18139000 us: [FE] Active Sensing
+timestamp 18148000 us: [F8] Timing clock
+timestamp 18167000 us: [F8] Timing clock
+timestamp 18187000 us: [F8] Timing clock
+timestamp 18206000 us: [F8] Timing clock
+timestamp 18222000 us: [92 35 00] channel 3: note On F3 velocity: 0
+timestamp 18225000 us: [F8] Timing clock
+timestamp 18245000 us: [F8] Timing clock
+timestamp 18264000 us: [F8] Timing clock
+timestamp 18283000 us: [F8] Timing clock
+timestamp 18289000 us: [92 39 00] channel 3: note On A3 velocity: 0
+timestamp 18294000 us: [92 3C 00] channel 3: note On C4 velocity: 0
+timestamp 18303000 us: [F8] Timing clock
+timestamp 18322000 us: [F8] Timing clock
+timestamp 18341000 us: [FE] Active Sensing
+timestamp 18341000 us: [F8] Timing clock
+timestamp 18362000 us: [92 35 46] channel 3: note On F3 velocity: 70
+timestamp 18363000 us: [F8] Timing clock
+timestamp 18381000 us: [F8] Timing clock
+timestamp 18400000 us: [F8] Timing clock
+timestamp 18419000 us: [F8] Timing clock
+timestamp 18439000 us: [F8] Timing clock
+timestamp 18458000 us: [F8] Timing clock
+timestamp 18463000 us: [92 35 00] channel 3: note On F3 velocity: 0
+timestamp 18477000 us: [F8] Timing clock
+timestamp 18498000 us: [92 3A 55] channel 3: note On A#3 velocity: 85
+timestamp 18499000 us: [92 3E 55] channel 3: note On D4 velocity: 85
+timestamp 18501000 us: [99 23 6D] channel 10: note On B1 velocity: 109
+timestamp 18502000 us: [F8] Timing clock
+timestamp 18508000 us: [92 35 4E] channel 3: note On F3 velocity: 78
+timestamp 18509000 us: [99 23 00] channel 10: note On B1 velocity: 0
+timestamp 18516000 us: [F8] Timing clock
+timestamp 18535000 us: [F8] Timing clock
+timestamp 18539000 us: [FE] Active Sensing
+timestamp 18555000 us: [F8] Timing clock
+timestamp 18566000 us: [92 3E 00] channel 3: note On D4 velocity: 0
+timestamp 18566000 us: [92 3A 00] channel 3: note On A#3 velocity: 0
+timestamp 18575000 us: [92 35 00] channel 3: note On F3 velocity: 0
+timestamp 18575000 us: [F8] Timing clock
+timestamp 18593000 us: [F8] Timing clock
+timestamp 18613000 us: [F8] Timing clock
+timestamp 18632000 us: [F8] Timing clock
+timestamp 18652000 us: [F8] Timing clock
+timestamp 18671000 us: [F8] Timing clock
+timestamp 18691000 us: [F8] Timing clock
+timestamp 18710000 us: [F8] Timing clock
+timestamp 18729000 us: [F8] Timing clock
+timestamp 18740000 us: [FE] Active Sensing
+timestamp 18749000 us: [F8] Timing clock
+timestamp 18768000 us: [F8] Timing clock
+timestamp 18787000 us: [F8] Timing clock
+timestamp 18807000 us: [F8] Timing clock
+timestamp 18826000 us: [F8] Timing clock
+timestamp 18837000 us: [92 35 42] channel 3: note On F3 velocity: 66
+timestamp 18842000 us: [92 39 42] channel 3: note On A3 velocity: 66
+timestamp 18843000 us: [92 3C 45] channel 3: note On C4 velocity: 69
+timestamp 18845000 us: [F8] Timing clock
+timestamp 18852000 us: [94 48 00] channel 5: note On C5 velocity: 0
+timestamp 18852000 us: [94 3C 00] channel 5: note On C4 velocity: 0
+timestamp 18865000 us: [F8] Timing clock
+timestamp 18884000 us: [F8] Timing clock
+timestamp 18903000 us: [F8] Timing clock
+timestamp 18923000 us: [F8] Timing clock
+timestamp 18939000 us: [FE] Active Sensing
+timestamp 18944000 us: [E4 00 0C] channel 5: pitch wheel change 1536
+timestamp 18944000 us: [F8] Timing clock
+timestamp 18949000 us: [94 41 77] channel 5: note On F4 velocity: 119
+timestamp 18951000 us: [94 4D 6C] channel 5: note On F5 velocity: 108
+timestamp 18964000 us: [99 23 6D] channel 10: note On B1 velocity: 109
+timestamp 18964000 us: [F8] Timing clock
+timestamp 18973000 us: [99 23 00] channel 10: note On B1 velocity: 0
+timestamp 18982000 us: [F8] Timing clock
+timestamp 19001000 us: [F8] Timing clock
+timestamp 19020000 us: [F8] Timing clock
+timestamp 19041000 us: [F8] Timing clock
+timestamp 19060000 us: [F8] Timing clock
+timestamp 19078000 us: [F8] Timing clock
+timestamp 19097000 us: [F8] Timing clock
+timestamp 19104000 us: [E4 00 16] channel 5: pitch wheel change 2816
+timestamp 19117000 us: [F8] Timing clock
+timestamp 19123000 us: [E4 00 24] channel 5: pitch wheel change 4608
+timestamp 19136000 us: [F8] Timing clock
+timestamp 19139000 us: [FE] Active Sensing
+timestamp 19147000 us: [E4 00 30] channel 5: pitch wheel change 6144
+timestamp 19155000 us: [F8] Timing clock
+timestamp 19166000 us: [E4 00 37] channel 5: pitch wheel change 7040
+timestamp 19175000 us: [F8] Timing clock
+timestamp 19184000 us: [E4 00 40] channel 5: pitch wheel change 8192
+timestamp 19186000 us: [92 35 00] channel 3: note On F3 velocity: 0
+timestamp 19194000 us: [F8] Timing clock
+timestamp 19214000 us: [92 39 00] channel 3: note On A3 velocity: 0
+timestamp 19215000 us: [F8] Timing clock
+timestamp 19233000 us: [F8] Timing clock
+timestamp 19253000 us: [92 3C 00] channel 3: note On C4 velocity: 0
+timestamp 19254000 us: [F8] Timing clock
+timestamp 19272000 us: [F8] Timing clock
+timestamp 19291000 us: [F8] Timing clock
+timestamp 19302000 us: [92 35 45] channel 3: note On F3 velocity: 69
+timestamp 19311000 us: [F8] Timing clock
+timestamp 19330000 us: [F8] Timing clock
+timestamp 19340000 us: [FE] Active Sensing
+timestamp 19350000 us: [F8] Timing clock
+timestamp 19370000 us: [F8] Timing clock
+timestamp 19384000 us: [92 35 00] channel 3: note On F3 velocity: 0
+timestamp 19388000 us: [F8] Timing clock
+timestamp 19407000 us: [F8] Timing clock
+timestamp 19428000 us: [99 23 6D] channel 10: note On B1 velocity: 109
+timestamp 19429000 us: [F8] Timing clock
+timestamp 19438000 us: [92 3A 56] channel 3: note On A#3 velocity: 86
+timestamp 19439000 us: [99 23 00] channel 10: note On B1 velocity: 0
+timestamp 19441000 us: [92 3E 56] channel 3: note On D4 velocity: 86
+timestamp 19443000 us: [92 35 4E] channel 3: note On F3 velocity: 78
+timestamp 19446000 us: [F8] Timing clock
+timestamp 19466000 us: [F8] Timing clock
+timestamp 19485000 us: [F8] Timing clock
+timestamp 19505000 us: [92 3A 00] channel 3: note On A#3 velocity: 0
+timestamp 19506000 us: [92 3E 00] channel 3: note On D4 velocity: 0
+timestamp 19506000 us: [F8] Timing clock
+timestamp 19511000 us: [92 35 00] channel 3: note On F3 velocity: 0
+timestamp 19524000 us: [F8] Timing clock
+timestamp 19540000 us: [FE] Active Sensing
+timestamp 19543000 us: [F8] Timing clock
+timestamp 19562000 us: [F8] Timing clock
+timestamp 19582000 us: [F8] Timing clock
+timestamp 19601000 us: [F8] Timing clock
+timestamp 19621000 us: [F8] Timing clock
+timestamp 19640000 us: [F8] Timing clock
+
+timestamp 19660000 us: [F8] Timing clock
+Received 1 sysex messages with a total of 9 bytes
+Received 1579 short messages with a total of 2504 bytes
+Received a total of 2513 bytes
